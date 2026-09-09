@@ -47,8 +47,8 @@ This repo is a fully open, project-based path from complete beginner to job-read
 
 | # | Project | Folder | Topics | Status |
 |---|---|---|---|---|
-| 1 | CLI Calculator with Error Handling | [`cli-calculator/`](./F1-Python%20%26%20Programming%20Basics/cli-calculator/) | `try/except`, type conversion, control flow | ✅ Done |
-| 2 | To-Do List App (JSON File Storage) | [`json-storage-todolist/`](./F1-Python%20%26%20Programming%20Basics/json-storage-todolist/) | file I/O, JSON, persistent state | ✅ Done |
+| 1 | CLI Calculator with Error Handling | [`cli-calculator/`](./cli-calculator/) | `try/except`, type conversion, control flow | ✅ Done |
+| 2 | To-Do List App (JSON File Storage) | [`json-storage-todolist/`](./json-storage-todolist/) | file I/O, JSON, persistent state | ✅ Done |
 | 3 | Contact Book (CRUD, JSON storage) | `contact-book/` | full CRUD, richer data models | ⬜ Not started |
 | 4 | Number-Guessing Game | `number-guessing-game/` | loops, randomness, difficulty logic | ⬜ Not started |
 | 5 | Simple Expense Tracker | `expense-tracker/` | aggregation, categorization | ⬜ Not started |
@@ -90,4 +90,4 @@ By following this repo end to end, you'll build hands-on experience in:
 - LinkedIn series: [link]
 - Each project post includes: what it does, what was learned, and the soft skill it builds
 
-Fork this repo, star it if it's useful, and build alongside me.
+Fork this repo, star it if it's useful, and build alongside me
