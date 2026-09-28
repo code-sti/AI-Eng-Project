@@ -49,7 +49,7 @@ This repo is a fully open, project-based path from complete beginner to job-read
 |---|---|---|---|---|
 | 1 | CLI Calculator with Error Handling | [`cli-calculator/`](./cli-calculator/) | `try/except`, type conversion, control flow | ✅ Done |
 | 2 | To-Do List App (JSON File Storage) | [`json-storage-todolist/`](./json-storage-todolist/) | file I/O, JSON, persistent state | ✅ Done |
-| 3 | Contact Book (CRUD, JSON storage) | `contact-book/` | full CRUD, richer data models | ⬜ Not started |
+| 3 | Contact Book (CRUD, JSON storage) | [`contact-book/`](./contactbook/) | full CRUD, richer data models |✅ Done |
 | 4 | Number-Guessing Game | `number-guessing-game/` | loops, randomness, difficulty logic | ⬜ Not started |
 | 5 | Simple Expense Tracker | `expense-tracker/` | aggregation, categorization | ⬜ Not started |
 | 6 | Web Scraper (static site) | `web-scraper/` | HTTP requests, HTML parsing | ⬜ Not started |
